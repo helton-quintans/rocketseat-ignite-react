@@ -31,7 +31,7 @@ Repositório para listar meus repositórios de aulas, desafios e projetos feitos
 
 ### Projetos
 
-- [Projeto 01 - dt money](https://github.com/matheuslanduci/dt-money)
+- [Projeto 01 - dt money](https://github.com/helton-quintans/aula02-trilha-reactjs)
 - [Projeto 02 - dashgo](https://github.com/matheuslanduci/dashgo)
 
 ### Bônus 
